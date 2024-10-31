@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="start">Начать</string>
+    <string name="welcome">Добро пожаловать в приложение!</string>
+    <string name="registr">Регистрация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="zareg">Зарегистрироваться</string>
+</resources>
